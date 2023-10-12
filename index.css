@@ -10,6 +10,7 @@ body {
     background-image: url("space1.webp");
     background-size: cover;
     padding: 10px 0 100px 0;
+    height: 350px;
 }
 
 .space-btn {
